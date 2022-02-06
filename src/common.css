@@ -1,0 +1,13 @@
+.anchor {
+  text-decoration: none;
+  color: rgb(0 0 0);
+  font-weight: bold;
+}
+
+.anchor:hover {
+  color: rgb(0 0 0);
+}
+
+.container {
+  max-width: 1100px;
+}
