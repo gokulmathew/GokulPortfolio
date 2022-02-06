@@ -42,12 +42,12 @@ const Header = () => {
                   >
                     Blog
                   </Link>
-                  <Link
+                  {/* <Link
                     to="/uses"
                     className="px-3 py-2 anchor rounded-md font-medium"
                   >
                     Uses
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>

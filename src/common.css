@@ -11,3 +11,15 @@
 .container {
   max-width: 1100px;
 }
+
+.w-60 {
+  width: 60vw;
+}
+
+.p16rem {
+  padding: 13rem 0rem;
+}
+
+.pRight24rem {
+  padding-right: 24rem !important;
+}
