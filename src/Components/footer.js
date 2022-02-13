@@ -7,7 +7,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => (
-  <footer className="bg-gray-100 py-16 text-gray-800">
+  <footer className="bg-gray-100 py-16 text-gray-800 footer">
     <div className="container">
       <div className="text-center py-4">
         <div className="flex gap-4 mb-6 justify-content-center">

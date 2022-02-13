@@ -23,3 +23,10 @@
 .pRight24rem {
   padding-right: 24rem !important;
 }
+
+/* footer page */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+}

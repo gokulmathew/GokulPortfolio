@@ -9,11 +9,11 @@ export default function Home() {
           </span>
         </h2>
         <h1 className="text-xl md:text-2xl font-bold mb-2">
-          Software Engineer with 3 years of Web Development experience based in
+          Software Developer with 3 years of Web Development experience based in
           Chennai, India
         </h1>
         <h2 className="text-xl">
-          Building Products, Tools &amp; Services with React.
+          Building Products &amp; Services with React, Angular.
         </h2>
       </div>
     </div>
