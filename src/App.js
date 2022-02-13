@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <div className="w-60  mx-auto">
         <Header />
-        <main className="p16rem">
+        <main >
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />

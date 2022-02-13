@@ -30,3 +30,13 @@
   bottom: 0;
   width: 100vw;
 }
+
+/* ABout Page */
+.myImage {
+  height: 23rem;
+  width: 21rem;
+}
+.columns-3 {
+  -moz-columns: 3;
+  column-count: 3;
+}

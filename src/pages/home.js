@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="container pRight24rem">
+    <div className="container pRight24rem p16rem">
       <div className=" md:py-32 md:w-2/3">
         <h2 className="text-3xl md:text-5xl font-bold mb-2">
           Hey, I'm Gokul
