@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gokulportfolio/static/css/main.228a6c94.css",
-    "main.js": "/gokulportfolio/static/js/main.e1133c43.js",
+    "main.js": "/gokulportfolio/static/js/main.229fb93a.js",
     "static/js/787.c5f03a5e.chunk.js": "/gokulportfolio/static/js/787.c5f03a5e.chunk.js",
     "static/media/primeicons.svg": "/gokulportfolio/static/media/primeicons.c6e2053303524e39530c.svg",
     "static/media/gokul.jpeg": "/gokulportfolio/static/media/gokul.5fa2b54336eef2fb8787.jpeg",
@@ -20,11 +20,11 @@
     "static/media/primeicons.ttf": "/gokulportfolio/static/media/primeicons.91bacab1f083f2795272.ttf",
     "index.html": "/gokulportfolio/index.html",
     "main.228a6c94.css.map": "/gokulportfolio/static/css/main.228a6c94.css.map",
-    "main.e1133c43.js.map": "/gokulportfolio/static/js/main.e1133c43.js.map",
+    "main.229fb93a.js.map": "/gokulportfolio/static/js/main.229fb93a.js.map",
     "787.c5f03a5e.chunk.js.map": "/gokulportfolio/static/js/787.c5f03a5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.228a6c94.css",
-    "static/js/main.e1133c43.js"
+    "static/js/main.229fb93a.js"
   ]
 }
