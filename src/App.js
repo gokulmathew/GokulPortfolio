@@ -15,10 +15,10 @@ function App() {
         <Header />
         <main>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/blog" element={<Blog />} />
+            <Route path="gokulportfolio/" element={<Home />} />
+            <Route path="gokulportfolio/about" element={<About />} />
+            <Route path="gokulportfolio/projects" element={<Projects />} />
+            <Route path="gokulportfolio/blog" element={<Blog />} />
           </Routes>
         </main>
       </div>
