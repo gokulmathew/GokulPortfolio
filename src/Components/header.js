@@ -19,25 +19,25 @@ const Header = () => {
               <div className="hidden sm:block sm:ml-6">
                 <div className="flex gap-2">
                   <Link
-                    to="/"
+                    to="gokulportfolio/"
                     className="px-3 py-2 anchor rounded-md font-medium"
                   >
                     Home
                   </Link>
                   <Link
-                    to="/about"
+                    to="gokulportfolio/about"
                     className="px-3 py-2 anchor rounded-md font-medium"
                   >
                     About
                   </Link>
                   <Link
-                    to="/projects"
+                    to="gokulportfolio/projects"
                     className="px-3 py-2 anchor rounded-md font-medium"
                   >
                     Projects
                   </Link>
                   <Link
-                    to="/blog"
+                    to="gokulportfolio/blog"
                     className="px-3 py-2 anchor rounded-md font-medium"
                   >
                     Blog
