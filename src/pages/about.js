@@ -1,20 +1,21 @@
-import GokulPhoto from "../assets/gokul.jpeg";
+import GokulPhoto from "../assets/gokul.jpg";
 export default function About() {
   return (
     <>
-      <div className="contaner my-5">
-        <div className="row">
-          <div className="col-8 px-5">
-            <h2 className="font-bold mb-4">
+      <div className='contaner my-5'>
+        <div className='row'>
+          <div className='col-8 px-5'>
+            <h2 className='font-bold mb-4'>
               Hey, I'm Gokul
-              <span role="img" aria-label="wave">
+              <span role='img' aria-label='wave'>
                 👋
               </span>
             </h2>
             <p>
-              I'm a Software Developer based in Chennai, India. I have over 3
-              years experience in the industry and now focus on building web
-              applications using React and Angular frameworks.
+              I'm a Software Developer based in Chennai, India. I have over 4+
+              years experience in the industry and now focus on building full
+              stack applications using React, Angular, Python(Django), Postgres,
+              AWS.
             </p>
             <p>
               My coding journey started unexpectedly in my thrid year of
@@ -30,17 +31,17 @@ export default function About() {
             </p>
             <p>
               Outside of work I like to spend my time walking, playing
-              badminton, chess, drinking coffee and watching series
+              badminton, chess, foosball, body building, zumba etc.
             </p>
           </div>
-          <div className="col-4">
-            <img src={GokulPhoto} alt="GOKUL" className="myImage" />
+          <div className='col-4'>
+            <img src={GokulPhoto} alt='GOKUL' className='myImage' />
           </div>
         </div>
 
-        <div className="row">
+        <div className='row'>
           <h3>Tech Skills</h3>
-          <ul className="list-disc columns-3 ml-6">
+          <ul className='list-disc columns-3 ml-6'>
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
@@ -59,6 +60,11 @@ export default function About() {
             <li>End to End Testing</li>
             <li>Storybook</li>
             <li>Sonarqube</li>
+
+            <li>Python</li>
+            <li>Django</li>
+            <li>Postgres</li>
+            <li>AWS</li>
           </ul>
         </div>
       </div>

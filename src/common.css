@@ -40,3 +40,26 @@
   -moz-columns: 3;
   column-count: 3;
 }
+
+.footer2 {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.rel {
+  position: relative;
+}
+
+.main-section-bottom-margin {
+  margin-bottom: 6rem;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1700px) {
+  .p16rem {
+    padding: 7rem 0rem;
+  }
+  .pRight24rem {
+    padding-right: 8rem !important;
+  }
+}

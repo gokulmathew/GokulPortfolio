@@ -11,14 +11,14 @@ import Blog from "./pages/blog";
 function App() {
   return (
     <BrowserRouter>
-      <div className="w-60  mx-auto">
+      <div className='w-60  mx-auto rel'>
         <Header />
-        <main>
+        <main className='main-section-bottom-margin'>
           <Routes>
-            <Route path="gokulportfolio/" element={<Home />} />
-            <Route path="gokulportfolio/about" element={<About />} />
-            <Route path="gokulportfolio/projects" element={<Projects />} />
-            <Route path="gokulportfolio/blog" element={<Blog />} />
+            <Route path='gokulportfolio/' element={<Home />} />
+            <Route path='gokulportfolio/about' element={<About />} />
+            <Route path='gokulportfolio/projects' element={<Projects />} />
+            <Route path='gokulportfolio/blog' element={<Blog />} />
           </Routes>
         </main>
       </div>
