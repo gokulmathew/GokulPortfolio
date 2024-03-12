@@ -9,12 +9,12 @@ export default function Home() {
           </span>
         </h2>
         <h1 className='text-xl md:text-2xl font-bold mb-2'>
-          Software Developer with 4+ years of Web Development experience based
-          in Chennai, India
+          Software Developer with 5 years of Software Development experience
+          based in Chennai, India
         </h1>
         <h2 className='text-xl'>
           Building Products &amp; Services with React, Angular, Python(Django),
-          Postgres, AWS.
+          Postgres, AWS, Docker etc.
         </h2>
       </div>
     </div>
